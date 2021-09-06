@@ -14,7 +14,8 @@
   * [Tests](#tests)
   * [Questions](#questions)
   ## Usage
-  Click on the deployed link.
+  Click on the deployed link. 
+  Video link of application being used: https://drive.google.com/file/d/1Htxgf4i69sxgqWeTfZ403xsJYJAHqtF3/view
   ## Languages
   HTML,JavaScript,ES6,Node
   ## Contributions
